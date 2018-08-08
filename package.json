@@ -1,0 +1,18 @@
+{
+  "name": "gatsby-talk-hello-world",
+  "description": "Gatsby Talk Hello World Example",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.5.1",
+    "gatsby": "^1.9.277",
+    "gatsby-link": "^1.6.46",
+    "gatsby-plugin-styled-components": "^2.0.11",
+    "gatsby-source-medium": "^1.0.14",
+    "styled-components": "^3.4.2"
+  }
+}
